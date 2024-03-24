@@ -1,6 +1,1 @@
-{
-  "name": "Test",
-  "description": "BluBots Test Pool",
-  "ticker":"BLU",
-  "homepage":"https://blubots.io"
-}
+{"name":"test_pool","ticker":"BLU","description":"Blubots Test Pool","homepage":"https://blubots.io","nonce":"1711313026"}
